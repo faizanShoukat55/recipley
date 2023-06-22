@@ -1,0 +1,17 @@
+[
+  {
+    "categoryId": "1",
+    "categoryName": "Breakfast"
+  },
+  {
+    "categoryId": "2",
+    "categoryName": "Lunch"
+  },
+  {
+    "categoryId": "3",
+    "categoryName": "Dinner"
+  }
+
+]
+
+

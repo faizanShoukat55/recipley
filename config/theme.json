@@ -1,0 +1,18 @@
+{
+  "app_name": "Recipley App",
+  "default_theme": "light",
+  "main_color": "#70B9BE",
+  "main_dark_color": "#032729",
+  "second_color": "#ECF3F9",
+  "scaffold_color": "#FAFAFA",
+  "text_light_color": "#BEC4CE",
+  "text_dark_color": "#032729",
+  "hint_color": "#BEC4CE",
+  "danger_color": "#FA8177",
+  "success_color": "#2BBD77",
+  "warning_color": "#E8910F",
+  "app_version": "1.0.0",
+  "enable_version": "1"
+}
+
+

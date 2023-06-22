@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "498747335800",
+    "project_id": "kattaform",
+    "storage_bucket": "kattaform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498747335800:android:266a38fc28ce024a90398d",
+        "android_client_info": {
+          "package_name": "com.example.katta_form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498747335800-r6sa7t7fk56pbldue3po2jckg2m0qpom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6dHP_ai7Loqu-hL2IgLGsNJKzWrpJBTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498747335800-72ncc5cmabvo6b28ug510eokdsf8bhoq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498747335800-3m5a4a2m6dqvqrf0pedul2af2u05qivm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kattaForm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498747335800:android:802c38a631645c4c90398d",
+        "android_client_info": {
+          "package_name": "com.inovedia.mo_lines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498747335800-r6sa7t7fk56pbldue3po2jckg2m0qpom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6dHP_ai7Loqu-hL2IgLGsNJKzWrpJBTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498747335800-72ncc5cmabvo6b28ug510eokdsf8bhoq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498747335800-3m5a4a2m6dqvqrf0pedul2af2u05qivm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kattaForm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498747335800:android:9739e743c48bd74490398d",
+        "android_client_info": {
+          "package_name": "com.tenbit.recipley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498747335800-pi0b7813hururgsbiqupr32v2hmt4g5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tenbit.recipley",
+            "certificate_hash": "31c0aa8cf4d72e53ede9e3fe7be5b36dbfc368f5"
+          }
+        },
+        {
+          "client_id": "498747335800-r6sa7t7fk56pbldue3po2jckg2m0qpom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6dHP_ai7Loqu-hL2IgLGsNJKzWrpJBTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498747335800-72ncc5cmabvo6b28ug510eokdsf8bhoq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498747335800-3m5a4a2m6dqvqrf0pedul2af2u05qivm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kattaForm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

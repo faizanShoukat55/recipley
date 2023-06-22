@@ -1,0 +1,28 @@
+[
+  {
+    "cuisineId": "1",
+    "cuisineName": "Italian"
+  },
+  {
+    "cuisineId": "2",
+    "cuisineName": "Mediterranean"
+  },
+  {
+    "cuisineId": "3",
+    "cuisineName": "Chinese"
+  },
+  {
+    "cuisineId": "4",
+    "cuisineName": "English"
+  },
+  {
+    "cuisineId": "5",
+    "cuisineName": "French"
+  },
+  {
+    "cuisineId": "6",
+    "cuisineName": "Mexican"
+  }
+]
+
+

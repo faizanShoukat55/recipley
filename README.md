@@ -1,16 +1,44 @@
-# recipley
+## Recipe App
+Flutter app to find recipes
 
-A new Flutter project.
+## Detail:
+- ✅Flutter APP
+- ✅MVVM Architecture
+- ✅Getx State management 
+- ✅Firebase Authentication
+- ✅Firestore Database
 
-## Getting Started
+## Note:
+Created JSON files for 
+- ✅App Complete Setting (Name, Colors, and rest of the detail)
+- ✅A dummy JSON to fetch data for Category, Cuisine, and Recipe List
 
-This project is a starting point for a Flutter application.
+## Packages
+- dio: A powerful HTTP client for Dart, used for making HTTP requests.
+- cached_network_image: A package for caching images from the network.
+- flutter_screenutil: A package for responsive screen
+- get: A package for state management 
+- google_fonts: A package for fonts
+- logger: A package for logs printed on the console
+- cached_network_image: A package for loading images from URL
+- flutter_staggered_grid_view: A package for grid view
+- cloud_firestore: A package for firebase firestore DB
+- firebase_auth: A package for Firebase social authentication
+- flutter_easyloading: A package for animated loader
+- flutter_launcher_icons: A package to generate app launcher icon
+- flutter_native_splash: A package to generate a native splash screen
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
+- ✅[Clone this Repo](https://github.com/faizanShoukat55/recipley)
+- ✅ flutter pub get
+- ✅ flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Test User
+- ✅ faizan.shoukat@inovedia.ae
+- ✅ admin123
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Video Preview
+- ✅[Video Preview](https://streamable.com/ybox7p)
+
+
